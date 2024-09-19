@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useTypedSelector } from "../hooks/quotTypedSelector";
 import { useActions } from "../hooks/useAction";
 import "./RandomQuote.css";
